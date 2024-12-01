@@ -23,7 +23,7 @@ main {
   font-size: 18px;
   border: 1px solid rgb(107, 101, 101);
   border-radius: 10px;
-  margin: 10px;
+  margin: 3px;
 }
 
 h2 {
@@ -44,6 +44,7 @@ button {
 
 input {
   padding: 10px;
+  color: black;
 }
 
 input:focus {
