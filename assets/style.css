@@ -23,7 +23,8 @@ main {
   font-size: 18px;
   border: 1px solid rgb(107, 101, 101);
   border-radius: 10px;
-  margin: 3px;
+  margin: 4px;
+  width: 100%;
 }
 
 h2 {
